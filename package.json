@@ -1,0 +1,16 @@
+{
+    "name": "natureai-website",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.21.2",
+        "sqlite3": "^5.1.6"
+    },
+    "description": "NatureAI",
+    "main": "script.js",
+    "author": "Lakshman",
+    "license": "ISC"
+}
